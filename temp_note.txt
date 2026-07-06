@@ -1,1 +1,0 @@
-Select * FROM users where username ="natas31"--" and password =".$dbh->quote(param('password'))
